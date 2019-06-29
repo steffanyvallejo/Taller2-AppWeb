@@ -1,0 +1,64 @@
+#header-main{
+
+width: 100%;
+height: 100%;
+
+
+} 
+
+body{
+	margin: 0;
+}
+
+
+
+
+
+
+#logoespol{
+	width: 60%;
+	height: 60%;
+	
+}
+.contenedor_imagen{
+	background-image: url(https://uc5959eadabe34b46f7ace5cc572.previews.dropboxusercontent.com/p/thumb/AAf2sBEMLkfTu4VvLOPDKw_wUofdIre2opdX0NCAKhQ57iMeAhUht3i23uzIZAfEauENoL3KemzNHmEyHmUHcsrYUtgGLA7hZnTWVhzOJWsD7lPlzxFO5gKpVz227vbFoorGE-DNIrKroa5OfWFGcB0AHALx2TbVERIuSU3gaRynvKuG1TEJiOJiZyt2Z7liXUxRfz_jXvDOyS1Is8QEpAXVnxnoMCSx1dogcXeL7YPqUJQyCVxsHYmkkqLdhC0cwDyYlmZt0M-mMVc7_jNJ0GusIcxvMHtkFj2hBmW9pkZFSHvsw_cuuVz9V0Dmkg7mVrC4kon1TzRog1tU-kC_P070-zNWmiNVxZT8iLqwxdNrrwVRdbjARSYb-9U7ruWakK9O1pE3pOAoaA6LhqonGZ8z/p.png?fv_content=true&size_mode=5) ; 
+	background-size: cover;
+	height: 100vh;
+	
+
+}
+
+.efecto{
+	
+	width:100%;
+	height: 150px;
+	background-color: #ffffff;
+	opacity:0.6;
+   	position: absolute;
+	bottom: 0;
+}
+
+.logo{
+  width:50%;
+  height: 150px;
+  float:left;
+  background:  #58A1A8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.espacio{
+	
+	float:left;
+	width:50%;
+	height: 150px;
+	background: #79C4B9;
+}
+
+.contenedor_forma{
+	background-color: #2882A3;
+	width: 100%;
+	height: 150px;
+	
+}
