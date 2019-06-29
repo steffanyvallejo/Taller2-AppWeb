@@ -42,7 +42,7 @@ body{
   width:50%;
   height: 150px;
   float:left;
-  background: 	#55B5A7;
+  background:  #00B6A9;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -53,7 +53,7 @@ body{
 	float:left;
 	width:50%;
 	height: 150px;
-	background: #79C4B9;
+	background: #3CC6B9;
 }
 
 .contenedor_forma{
